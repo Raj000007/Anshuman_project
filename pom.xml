@@ -27,6 +27,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+  <repository>
+    <id>codeartifact</id>
+    <name>codeartifact</name>
+    <url>https://github.com/Raj000007/Anshuman_project.git</url>
+  </repository>
+</distributionManagement>
 
   <build>
     <finalName>durga1</finalName>
